@@ -26,7 +26,11 @@
     <![endif]-->
 </head>
 <body>
-
+    <div class="container-fluid"><!--main container-->
+    </div><!--main container-->
+<div class="row"><!--logo,social,contacts-->
+    <div class="col"
+    </div><!--logo,social,contacts-->
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
